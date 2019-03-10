@@ -7,4 +7,4 @@
 为了更好地普及.NET Core,方便.NET开发者,为.NET Core生态建设添砖加瓦,我产生了创建awesome-dotnet-core系列博客的想法.该系列会不定期发布博客,介绍awesome-dotnet-core其中一些实用的,有意思的,~~我能看懂的~~库,尽量以浅显的文字,简单的例子说明库的用法和使用场景等.
 
 1. [Sprache-解析器构建库](blogs/1.Sprache.md)
-1. [Sprache.Calc-表达式计算器](2.Sprache.Calc.md)
+1. [Sprache.Calc-表达式计算器](blogs/2.Sprache.Calc.md)
